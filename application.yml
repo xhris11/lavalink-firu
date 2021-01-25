@@ -1,12 +1,12 @@
 server:
-  port: DYNAMICPORT
-  address: 0.0.0.0
+  port: 80
+  address: https://xhris11firulais.herokuapp.com
 spring:
   main:
     banner-mode: log
 lavalink:
   server:
-    password: "DYNAMICPASSWORD"
+    password: "christian.11"
     sources:
       youtube: true
       bandcamp: true
