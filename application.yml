@@ -1,5 +1,5 @@
 server:
-  port: 80
+  port: 2333
   address: xhris11firulais.herokuapp.com
 spring:
   main:
